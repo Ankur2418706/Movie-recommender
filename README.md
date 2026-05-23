@@ -8,4 +8,4 @@ It's a simple ML project that showcase the use of libraries like pandas and scik
 # 5. Project will run in a new browser window.
 
 # Screenshot:
-![Screenshot2]()
+![Screenshot](Screenshot.png)
