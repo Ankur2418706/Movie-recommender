@@ -5,3 +5,5 @@ It's a simple ML project that showcase the use of libraries like pandas and scik
 # 2. Copy CODE in any code editor like Jupiter notebook , VS code etc. and saves the file with a .py extension.
 # 3. RUN CMD, and type
 # 4. streamlit run file_name.py
+# 5. Project will run in a new browser window.
+
