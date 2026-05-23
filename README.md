@@ -1,4 +1,4 @@
-# Movie-recommender
+# Movie-recommender:
 It's a simple ML project that showcase the use of libraries like pandas and scikit learn to provide movie recommendations based on your movie selection. It uses a pre-stored DATASET from Kaggle, to run this project follow the following steps:-
 # Steps:-
 # 1. Download the DATASET.
@@ -7,3 +7,5 @@ It's a simple ML project that showcase the use of libraries like pandas and scik
 # 4. streamlit run file_name.py
 # 5. Project will run in a new browser window.
 
+# Screenshot:
+![Screenshot2]()
